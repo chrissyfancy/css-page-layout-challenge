@@ -1,0 +1,86 @@
+body {
+  background-color: #E5F3F4;
+  margin: 0;
+  font-family: 'Source Sans Pro';
+  padding: 0px 0px;
+}
+
+nav {
+  color: white;
+  font-family: 'Alegreya';
+  background-color: #3498DB;
+  padding: 10px 25px 0px 25px;
+  margin: 0px;
+}
+
+.site-title {
+  margin-bottom: 0px;
+}
+
+.sub-title {
+  font-weight: lighter;
+  font-size: 16px;
+  padding: 0px 0px 20px 0px;
+  margin: 0px 10px 10px 0px;
+
+}
+
+.quote {
+  background-color: #2ECC71;
+  border: 4px solid #27AE60;
+  margin: 20px 23%;
+  padding: 10px 25px;
+  width: auto;
+  font-size: 12px;
+}
+
+.quoted-from {
+  font-style: italic;
+  text-align: right;
+}
+
+.try-it-now {
+  background-color: #E74C3C;
+  border: 4px solid #C0392B;
+  border-radius: 20px;
+  height: auto;
+  margin: 20px 35%;
+  color: white;
+  font-family: 'Alegreya';
+  font-style: italic;
+  text-align: center;
+  padding: 0px;
+}
+
+h4 {
+  font-weight: lighter;
+  margin: 15px 0px 0px 0px;
+  padding: 0px;
+}
+
+.try-it-now a {
+  color: white;
+  font-size: 25px;
+}
+
+.blue-page-section {
+  font-size: 12.5px;
+  background-color: #2C3E50;
+  color: white;
+  padding: 30px 40px;
+}
+
+footer {
+  background-color: #1C2224;
+  color: #46627E;
+  font-size: 13px;
+  padding: 20px 20px;
+  text-align: center;
+}
+
+footer a {
+  color: #2E80B6;
+  text-decoration: none;
+  width: auto;
+  padding: 10px;
+}
